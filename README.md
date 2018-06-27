@@ -1,18 +1,18 @@
-# Project 1 - *Name of App Here*
+# Project 1 - *Simple Todo App*
 
 **Name of your app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
-Submitted by: **Your Name Here**
+Submitted by: **Arafat Mohammed**
 
-Time spent: **X** hours spent in total
+Time spent: 1.3 hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-* [ ] User can **view a list of todo items**
-* [ ] User can **successfully add and remove items** from the todo list
-* [ ] User's **list of items persisted** upon modification and and retrieved properly on app restart
+* [x] User can **view a list of todo items**
+* [x] User can **successfully add and remove items** from the todo list
+* [x] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
 The following **optional** features are implemented:
 
@@ -31,8 +31,8 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
 Describe any challenges encountered while building the app.
+I had an error in my code and could not determine the cause until I asked the TA only to find out that it was because I had to import a specific library. And I had to do that by synching the changes I made in the Gradle script.
 
 ## License
 
