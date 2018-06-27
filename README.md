@@ -4,7 +4,7 @@
 
 Submitted by: **Arafat Mohammed**
 
-Time spent: 1.3 hours spent in total
+Time spent: 2 hours spent in total
 
 ## User Stories
 
